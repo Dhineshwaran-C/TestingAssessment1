@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Start Browser Executed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-23T19:46:44 IST" name="Default suite" finished-at="2024-03-23T19:46:51 IST" duration-ms="7544">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T19:46:44 IST" name="Default test" finished-at="2024-03-23T19:46:51 IST" duration-ms="7544">
+      <class name="Assessment.Assessment.AppTest">
+        <test-method signature="open_browser()[pri:1, instance:Assessment.Assessment.AppTest@4466af20]" started-at="2024-03-23T19:46:44 IST" name="open_browser" finished-at="2024-03-23T19:46:45 IST" duration-ms="1405" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Start Browser Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="print_all_rows()[pri:2, instance:Assessment.Assessment.AppTest@4466af20]" started-at="2024-03-23T19:46:45 IST" name="print_all_rows" finished-at="2024-03-23T19:46:48 IST" duration-ms="3162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_all_rows -->
+        <test-method signature="print_selected_rows()[pri:3, instance:Assessment.Assessment.AppTest@4466af20]" started-at="2024-03-23T19:46:48 IST" name="print_selected_rows" finished-at="2024-03-23T19:46:49 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_selected_rows -->
+        <test-method signature="finding_specific_row()[pri:4, instance:Assessment.Assessment.AppTest@4466af20]" started-at="2024-03-23T19:46:49 IST" name="finding_specific_row" finished-at="2024-03-23T19:46:49 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finding_specific_row -->
+        <test-method signature="to_check_element_present()[pri:5, instance:Assessment.Assessment.AppTest@4466af20]" started-at="2024-03-23T19:46:49 IST" name="to_check_element_present" finished-at="2024-03-23T19:46:49 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- to_check_element_present -->
+        <test-method signature="print_row_which_have_element()[pri:6, instance:Assessment.Assessment.AppTest@4466af20]" started-at="2024-03-23T19:46:49 IST" name="print_row_which_have_element" finished-at="2024-03-23T19:46:51 IST" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_row_which_have_element -->
+      </class> <!-- Assessment.Assessment.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
